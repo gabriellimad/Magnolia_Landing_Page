@@ -1,0 +1,204 @@
+{
+  "Header": {
+    "title": "O lugar ideal para eventos inesquecíveis!",
+    "paragraph": "No Magnolia Conventions Center, você encontra uma estrutura completa para convenções, treinamentos, congressos, casamentos e celebrações especiais. Com campos de futebol, academia com piscina, refeitório, suítes para grupos e espaços modernos, oferecemos tudo o que seu evento precisa para ser único."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Estrutura completa para eventos de todos os portes",
+      "Ambientes modernos e confortáveis para hóspedes e participantes",
+      "Equipe especializada e atendimento personalizado",
+      "Localização privilegiada e fácil acesso"
+    ],
+    "Why2": [
+      "Serviços integrados: refeitório, lavanderia, academia e estacionamento",
+      "Acomodações padrão internacional para máximo conforto",
+      "Opções de lazer e esportes para integração dos grupos",
+      "Compromisso com a excelência e satisfação dos clientes"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Hotel Principal",
+      "largeImage": "img/portfolio/hotel-large.jpg",
+      "smallImage": "img/portfolio/hotel-small.jpg"
+    },
+    {
+      "title": "Campos de Futebol",
+      "largeImage": "img/portfolio/campo-large.jpg",
+      "smallImage": "img/portfolio/campo-small.jpg"
+    },
+    {
+      "title": "Academia com Piscina",
+      "largeImage": "img/portfolio/academia-large.jpg",
+      "smallImage": "img/portfolio/academia-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Refeitório",
+      "text": "Desfrute de um refeitório amplo e moderno, com cardápios variados e refeições preparadas por profissionais, garantindo sabor e qualidade para todos os participantes do seu evento."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Acomodações",
+      "text": "Nossas acomodações oferecem conforto e praticidade, com suítes climatizadas e ambientes pensados para o bem-estar dos hóspedes, tornando sua estadia ainda mais especial."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Campos de futebol",
+      "text": "Aproveite campos de futebol profissionais, ideais para treinamentos, jogos e integração dos participantes, proporcionando momentos de lazer e esporte durante o evento."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Academia com piscina coberta",
+      "text": "Mantenha-se ativo em nossa academia equipada e relaxe na piscina coberta, espaços perfeitos para atividades físicas e bem-estar em qualquer época do ano."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lavanderia",
+      "text": "Conte com serviço de lavanderia eficiente e ágil, garantindo praticidade e comodidade para grupos e hóspedes durante toda a estadia."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Estacionamento",
+      "text": "Oferecemos estacionamento amplo e seguro, facilitando o acesso e proporcionando tranquilidade para todos os visitantes do Magnolia Conventions Center."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Rua Laura Maiello Kook, 1711 - Ipanema das Pedras, Sorocaba - SP, 18052-445",
+    "phone": "+55 (15) 3229-0780",
+    "email": "magnoliaconventionscenter@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Refeições",
+      "text": "Oferecemos cardápios variados e balanceados, preparados por uma equipe especializada para atender todos os tipos de eventos, garantindo sabor e qualidade em cada refeição."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Ambiente esportivo",
+      "text": "Contamos com campos de futebol, academia equipada, proporcionando opções completas para atividades físicas e integração dos participantes."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lavanderia",
+      "text": "Serviço de lavanderia disponível para hóspedes e grupos, com agilidade e cuidado, garantindo praticidade durante toda a estadia."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Acomodações padrão FIFA",
+      "text": "Nossas suítes seguem padrões internacionais de conforto, oferecendo ambientes modernos, climatizados e pensados para o bem-estar dos atletas e convidados."
+    }
+  ]
+}
